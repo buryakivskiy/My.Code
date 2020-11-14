@@ -29,5 +29,5 @@ void encryption(char *language, char *scytale, int n){
             scytale[index] = language[j];
             index++;    
         }
-    }
+    } 
 }

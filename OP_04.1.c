@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-	int mark, ch2;
+	int mark, ch2; 
 	char ch;
 	printf("Введіть ваший бал за шкалою від 0 до 100: ");
 	scanf("%d", &mark);

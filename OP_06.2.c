@@ -14,7 +14,7 @@ int main(){
 		printf("Введіть значення b: ");
 		scanf("%d", &b);
 		check(a,b);
-	}
+	} 
 	return 0;
 }
 

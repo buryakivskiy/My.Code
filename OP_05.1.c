@@ -7,4 +7,4 @@ int main(void)
 	scanf("%[^\n]", str);
 	printf("Ваші символи: %s\n", str);
 	return 0;
-}
+} 

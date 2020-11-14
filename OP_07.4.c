@@ -31,7 +31,7 @@ void big_ever_factorial(int n){
             cash = f[j]/10;
             f[j] = f[j]%10;
         }
-        i++;
+        i++; 
     }
     int check = 0;
     for (int i = 0; i<1000; i++){

@@ -20,7 +20,7 @@ void Vizener(char *str){
 			if (str[i]+k > 90) str[i]-=(26-k);
 			else str[i]+=k;
 		}
-		else if (str[i] >= 97 && str[i] <= 122){
+		else if (str[i] >= 97 && str[i] <= 122){ 
 			k = str[i]-96;
 			if (str[i]+k > 122) str[i]-=(26-k);
 			else str[i]+=k;

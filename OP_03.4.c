@@ -5,7 +5,7 @@ int main(void)
     int n = 30, m;
     while ( ++n <= 33) printf("%d|", n);
     n = 30;
-    printf("\n");
+    printf("\n"); 
     do {
     	printf("%d|", n);
     } while ( n++ <= 33);

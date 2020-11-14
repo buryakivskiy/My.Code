@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int t = 2;
+    int t = 2; 
     t += 5;
     printf("t = %i\n", t);
     t *= 10;

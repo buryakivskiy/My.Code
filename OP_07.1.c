@@ -12,7 +12,7 @@ int main(void){
 	scanf("%s", str);
 	Cesar(k, str);
 	printf("Ось зашифрований рядок:\n%s\n", str);
-	return 0;
+	return 0; 
 }
 
 void Cesar(int k, char *str){

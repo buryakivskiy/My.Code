@@ -21,4 +21,4 @@ int main(void){
 		else { printf("Ok! Have a nice day!\n"); t-- ;}
 	}
 	return 0;
-}
+} 

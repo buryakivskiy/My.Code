@@ -11,4 +11,4 @@ int main(void) {
 	}
 	printf("%f", res);
 	return 0;
-}
+} 

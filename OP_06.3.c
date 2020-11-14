@@ -16,7 +16,7 @@ int main(void) {
         i++;
     }
     printf("└───────────┴────────────┴────────────┘\n");
-    return 0; 
+    return 0;  
 }
 
 int f(int n) {

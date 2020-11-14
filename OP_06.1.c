@@ -8,7 +8,7 @@ void right();
 void turn_180();
 void turn_vertically();
 void turn_horizontally();
-void print_and_synchron();
+void print_and_synchron(); 
 
 int main(){
 	int k = 1, ans;

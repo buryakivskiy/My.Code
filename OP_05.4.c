@@ -10,4 +10,4 @@ int main()
     else if  (isspace(ch)) printf("Введений пробіл / таб / перехід на новий рядок\n");
     else  printf("Символ не з алфавіту\n");
     return 0;
-}
+} 
