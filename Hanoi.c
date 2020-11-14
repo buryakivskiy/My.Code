@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int p1;
+int p1; 
 int p2 = 0;
 int p3 = 0;
 
